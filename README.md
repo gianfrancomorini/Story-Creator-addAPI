@@ -1,4 +1,4 @@
-Story Creator - Add API
+Story Creator - Just Add Your API
 
 
 Story Creator is a web-based tool that uses OpenAI's GPT-3.5 model to generate short stories for children based on a prompt provided by the user. It also offers an illustration generation feature, which creates an image for the story in a style of your choice. This project serves as a creative resource for parents, teachers, and children to explore imaginative storytelling.
